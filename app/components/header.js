@@ -21,7 +21,7 @@ const Header = ({ imageUrl, ImageName }) => (
         className="w-full h-full object-cover rounded-lg"
       />
     </div>
-    <div className="my-6 mx-2 m-auto max-w-[1175px]">
+    <div className="my-6 px-2 m-auto max-w-[1175px]">
       <h1 className="md:text-2xl lg:text-left text-lg text-center font-bold ">
         Week Orders
       </h1>
